@@ -1,0 +1,393 @@
+body{
+    margin: 0;
+    padding: 0;
+  }  
+    .navbar{
+display: flex;
+background-color:white;
+color: black;
+justify-content:end;
+align-items: center;
+height:90px;
+width:230vh;
+position: relative;
+/* right:100px; */
+overflow-x: hidden;
+/* width: 500px; */
+border-color: black;
+position: relative;
+right: 20vh;
+
+
+}
+.nav{
+list-style: none;
+display: flex;
+justify-content:center;
+/* justify-content: space-between; */
+
+}
+
+#pre{
+position: relative;
+bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 10px;
+right:80vh;
+
+}
+#pre:hover{
+color:rgb(238, 23, 23);
+}
+#supp{
+position: relative;
+bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 10px;
+right:80vh;
+
+}
+#supp:hover{
+color:rgb(238, 23, 23);
+}
+#dow{
+position: relative;
+bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 10px;
+right:80vh;
+}
+#dow:hover{
+
+color:rgb(238, 23, 23);
+}
+#sign{
+position: relative;
+bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 10px;
+right:80vh;
+}
+#sign:hover{
+color:rgb(238, 23, 23);
+}
+#log{
+position: relative;
+bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 10px;
+right:80vh;
+}
+#log:hover{
+color:rgb(238, 23, 23);
+}
+#text{
+position: relative;
+left:120vh;
+}
+#logo{
+position: relative;
+left:45vh;
+bottom: 10px;
+}
+#logo2{
+position: relative;
+left:50vh;
+bottom: 10px;
+}
+#logo3{
+position: relative;
+left:24vh;
+bottom: 10px;
+
+}
+#backimage{
+width: 100vw;
+
+}
+#h3{
+position: relative;
+bottom: 60vh;
+left:75vh;
+font-size: 30px;
+}
+#span1{
+color:orangered;
+}
+#para1{
+position: relative;
+bottom: 60vh;
+left:75vh;
+font-size:20px ;
+}
+#but1{
+position: relative;
+bottom:55vh;
+left:100vh;
+width:100px;
+height: 40px;
+}
+#but1:hover{
+background-color: orangered;
+}
+#h5{
+position: relative;
+bottom:30vh;
+font-size: 30px;
+left:85vh;
+
+}
+#rew{
+background-color: orangered;
+    
+}
+.flex{
+display: flex;
+height:300px;
+    position: relative;
+    bottom:30vh;
+    background-color:white;
+    border:solid black;
+    /* width:120; */
+    
+}
+#rewiewimage{
+position: relative;
+left: 95vh;
+border-radius: 100%;
+top: 20px;
+
+}
+#para2{
+position: relative;
+top:140px;
+left:190px;
+}
+#h6{
+position: relative;
+font-size:20px;
+top:20vh;
+right:35vh;
+}
+#ratingimage{
+position: relative;
+top:30vh;
+right:50vh;
+/* border:solid black; */
+}
+#h51{
+position: relative;
+bottom:30vh;
+font-size: 30px;
+left:94vh;
+
+}
+#blogs{
+background-color: orangered;
+    
+}
+.flex-container {
+display: flex;
+background-color:white;
+position: relative;
+bottom: 30vh;
+height:95vh;
+
+}
+
+.flex-container > div {
+background-color: #f1f1f1;
+margin: 10px;
+padding: 20px;
+font-size: 30px;
+height: 90vh;
+width: 50vh;
+justify-content: space-between;
+/* background-size: cover; */
+}
+#blog1{
+position: relative;
+bottom:2vh;
+width:50vh;
+/* background-size: cover; */
+}
+#byuser{
+position: relative;
+bottom: 25px;
+height: 40px;
+width: 50vh;
+
+}
+#fresh{
+position: relative;
+font-size: 25px;
+}
+#lorem1{
+position: relative;
+font-size: 20px;
+}
+#blog2{
+position: relative;
+bottom:2vh;
+width:50vh;
+/* background-size: cover; */
+}
+#byuser2{
+position: relative;
+bottom: 25px;
+height: 40px;
+width: 50vh;
+
+}
+#fresh2{
+position: relative;
+font-size: 25px;
+}
+#lorem2{
+position: relative;
+font-size: 20px;
+}
+#blog3{
+position: relative;
+bottom:2vh;
+width:50vh;
+/* background-size: cover; */
+}
+#byuser3{
+position: relative;
+bottom: 25px;
+height: 40px;
+width: 50vh;
+
+}
+#fresh3{
+position: relative;
+font-size: 25px;
+}
+#lorem3{
+position: relative;
+font-size: 20px;
+}
+.flex1{
+display: flex;
+height:80vh;
+width:230vh;
+/* right:20px; */
+background-color:white;
+position:relative;
+/* bottom:201.8vh; */
+bottom:30vh;
+overflow-x: hidden;
+}
+#sf{
+color:black;
+position:relative;
+top: 10vh;
+font-size:30px;
+left:5vw;
+}
+#logo11{
+position: relative;
+top:7vh;
+/* left:vh; */
+right: 40vh;
+}
+#head1{
+color:black;
+position: relative;
+top:1vh;
+/* left:px; */
+}
+#company{
+color: black;
+position: relative;
+/* top: 30vh; */
+/* left:8vw; */
+font-size: 20px;
+top: 35px;
+
+}
+#head2{
+color: black;
+position: relative;
+top:1vh;
+/* left:px; */
+}
+#commu{
+color: black;
+position: relative;
+top:35px;
+left:13vw;
+font-size: 20px;
+}
+#head3{
+color:black;
+position: relative;
+top:1vh;
+/* left:px; */
+}
+#use{
+color: black;
+position: relative;
+top:29.8vh;
+left:38vw;
+font-size: 20px;
+}
+#logo22{
+position: relative;
+/* top:20vh; */
+/* top: 29.8vh; */
+/* left ; */
+top:30vh;
+right:120vh;
+
+}
+#foot{
+position: relative;
+top: 15vh;
+right:20vh;
+
+}
+#cart1{
+position: relative;
+width:10vw;
+height: 40px;
+
+}
+#cart1:hover{
+background-color: orangered;
+}
+#cart2{
+position: relative;
+width:10vw;
+height: 40px;
+
+}
+#cart2:hover{
+background-color: orangered;
+}
+#cart3{
+position: relative;
+width:10vw;
+height: 40px;
+
+}
+#cart3:hover{
+background-color: orangered;
+}
+#headlogo{
+position: relative;
+right:90vh;
+bottom: 10px;
+font-size: 20px;
+}
+#headimage{
+position: relative;
+right:90vh;
+bottom: 10px;
+}
